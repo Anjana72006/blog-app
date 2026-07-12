@@ -18,8 +18,7 @@ A simple and responsive blog application built with **Next.js** and **TypeScript
 - CSS / Tailwind CSS
 - MockAPI
 
-##API
-MockAPI used to collect post data
+
 
 
 ## Author
